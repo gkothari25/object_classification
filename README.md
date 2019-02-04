@@ -1,5 +1,5 @@
 # Check_defect
-how to check the defect.
+How to classify defect/Healthy parts using computer vision and deep learning.
 In this solution I am using transfer learning for classifying the Defect and Healthy parts.
 
 Transfer Learning - Transfer learning is the application of knowledge gained from completing one task to help solve a different, but related, problem. Through transfer learning, methods are developed to transfer knowledge from one or more of these source tasks to improve learning in a related target task.
