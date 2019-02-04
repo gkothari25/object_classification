@@ -10,4 +10,9 @@ On ImageNet, this model gets to a top-1 validation accuracy of 0.790 and a top-5
 Note that this model only supports the data format 'channels_last' (height, width, channels).
 The default input size for this model is 299x299.
 
-
+HOW TO RUN:
+Every time when we run the model we should empty the model folder otherwise it throws the error of shape mismatch.
+Model folder contains file after the execution:
+1- Defect_healthy_classifier_model.h5
+2- x_train.dat
+3- y_train.dat
