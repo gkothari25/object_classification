@@ -19,3 +19,12 @@ Model folder contains file after the execution:
 2- x_train.dat
 
 3- y_train.dat
+
+Steps :- 
+1- Dowload the jupyter notebook and open the Check_defect.ipynb file in the localhost:8080 browser.
+
+2- run the all cell in jupyter notebook.
+
+3- check the accuracy,f1score,precision for the model at the end of the notebook.
+
+4- I also have attached the python file.
